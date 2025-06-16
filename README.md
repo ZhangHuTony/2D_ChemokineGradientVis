@@ -97,8 +97,6 @@ T-cell movement:
 ## 📌 References
 
 * [Steady-state diffusion derivation](2D_Steady_State_Diffusion_Derivation.pdf)
-* \[CS 5635 Final Report]\(Final Project Report.docx)
-* \[Project Slides]\(final project vis.pptx)
 * [Reeve's Lab Study](https://pmc.ncbi.nlm.nih.gov/articles/PMC10168251/)
 * [T-cell chemokine sensitivity paper](https://www.frontiersin.org/articles/10.3389/fimmu.2022.913366/full)
 
